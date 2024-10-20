@@ -1,0 +1,57 @@
+[
+  {
+    "date": "2024-10-20",
+    "temperatureC": 25,
+    "summary": "Sunny",
+    "hourlyReport": [
+      { "hour": "08:00 AM", "temperatureC": 20, "summary": "Sunny" },
+      { "hour": "12:00 PM", "temperatureC": 24, "summary": "Sunny" },
+      { "hour": "04:00 PM", "temperatureC": 26, "summary": "Sunny" },
+      { "hour": "08:00 PM", "temperatureC": 22, "summary": "Clear" }
+    ]
+  },
+  {
+    "date": "2024-10-21",
+    "temperatureC": 22,
+    "summary": "Partly Cloudy",
+    "hourlyReport": [
+      { "hour": "08:00 AM", "temperatureC": 18, "summary": "Cloudy" },
+      { "hour": "12:00 PM", "temperatureC": 20, "summary": "Partly Cloudy" },
+      { "hour": "04:00 PM", "temperatureC": 22, "summary": "Partly Cloudy" },
+      { "hour": "08:00 PM", "temperatureC": 19, "summary": "Cloudy" }
+    ]
+  },
+  {
+    "date": "2024-10-22",
+    "temperatureC": 18,
+    "summary": "Rainy",
+    "hourlyReport": [
+      { "hour": "08:00 AM", "temperatureC": 16, "summary": "Light Rain" },
+      { "hour": "12:00 PM", "temperatureC": 17, "summary": "Rain" },
+      { "hour": "04:00 PM", "temperatureC": 18, "summary": "Heavy Rain" },
+      { "hour": "08:00 PM", "temperatureC": 15, "summary": "Drizzle" }
+    ]
+  },
+  {
+    "date": "2024-10-23",
+    "temperatureC": 5,
+    "summary": "Snow",
+    "hourlyReport": [
+      { "hour": "08:00 AM", "temperatureC": 2, "summary": "Snow" },
+      { "hour": "12:00 PM", "temperatureC": 4, "summary": "Snow" },
+      { "hour": "04:00 PM", "temperatureC": 5, "summary": "Snow" },
+      { "hour": "08:00 PM", "temperatureC": 1, "summary": "Clear" }
+    ]
+  },
+  {
+    "date": "2024-10-24",
+    "temperatureC": 10,
+    "summary": "Cloudy",
+    "hourlyReport": [
+      { "hour": "08:00 AM", "temperatureC": 8, "summary": "Cloudy" },
+      { "hour": "12:00 PM", "temperatureC": 10, "summary": "Partly Cloudy" },
+      { "hour": "04:00 PM", "temperatureC": 11, "summary": "Cloudy" },
+      { "hour": "08:00 PM", "temperatureC": 9, "summary": "Cloudy" }
+    ]
+  }
+]
